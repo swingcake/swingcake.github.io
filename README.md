@@ -1,3 +1,3 @@
 # blogCake
 
-View it at <https://swingcake.github.io>
+View it at <https://swingcake.github.io>{:target="_blank"}
