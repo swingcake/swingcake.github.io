@@ -1,4 +1,4 @@
 # blogCake
 
-blogCake is the name of my blog.
-Visit it by clicking [here](https://swingcake.github.io/ "blogCake").
+blogCake is the name of my blog.  
+View it [here](https://swingcake.github.io/ "blogCake").
